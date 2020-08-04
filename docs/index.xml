@@ -1,0 +1,73 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Docs on APACHE</title>
+        <link>https://MUOU-HANG.github.io/docs/</link>
+        <description>Recent content in Docs on APACHE</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Mon, 03 Aug 2020 15:17:11 +0800</lastBuildDate>
+        <atom:link href="https://MUOU-HANG.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>6.5.0</title>
+            <link>https://MUOU-HANG.github.io/docs/v8_0-copy-4/</link>
+            <pubDate>Mon, 03 Aug 2020 15:17:11 +0800</pubDate>
+            
+            <guid>https://MUOU-HANG.github.io/docs/v8_0-copy-4/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>6.6.0</title>
+            <link>https://MUOU-HANG.github.io/docs/v8_0-copy-3/</link>
+            <pubDate>Mon, 03 Aug 2020 15:17:11 +0800</pubDate>
+            
+            <guid>https://MUOU-HANG.github.io/docs/v8_0-copy-3/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>7.0.0</title>
+            <link>https://MUOU-HANG.github.io/docs/v8_0-copy-2/</link>
+            <pubDate>Mon, 03 Aug 2020 15:17:11 +0800</pubDate>
+            
+            <guid>https://MUOU-HANG.github.io/docs/v8_0-copy-2/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>8.0.0</title>
+            <link>https://MUOU-HANG.github.io/docs/v8_0-copy/</link>
+            <pubDate>Mon, 03 Aug 2020 15:17:11 +0800</pubDate>
+            
+            <guid>https://MUOU-HANG.github.io/docs/v8_0-copy/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>8.0.1</title>
+            <link>https://MUOU-HANG.github.io/docs/v8_0/</link>
+            <pubDate>Mon, 03 Aug 2020 15:17:11 +0800</pubDate>
+            
+            <guid>https://MUOU-HANG.github.io/docs/v8_0/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Nginx LUA .0.01</title>
+            <link>https://MUOU-HANG.github.io/docs/v8_0-copy-5/</link>
+            <pubDate>Sat, 03 Aug 2019 15:17:11 +0800</pubDate>
+            
+            <guid>https://MUOU-HANG.github.io/docs/v8_0-copy-5/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+    </channel>
+</rss>
